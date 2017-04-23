@@ -1,0 +1,54 @@
+Forwarding Table for Node 5 at TIME_STEP 0:
+Destination	Path	Cost
+0		[0]	1
+1		[0, 1]	2
+2		[4, 2]	2
+3		[4, 3]	2
+4		[4]	1
+
+
+Forwarding Table for Node 5 at TIME_STEP 1:
+Destination	Path	Cost
+0		[0]	1
+1		[0, 1]	2
+2		[4, 2]	2
+3		[4, 3]	2
+4		[4]	1
+
+
+Forwarding Table for Node 5 at TIME_STEP 2:
+Destination	Path	Cost
+0		[0]	1
+1		[0, 1]	2
+2		[4, 2]	2
+3		[4, 3]	2
+4		[4]	1
+
+
+Forwarding Table for Node 5 at TIME_STEP 3:
+Destination	Path	Cost
+0		[0]	1
+1		[0, 1]	2
+2		[4, 2]	2
+3		[4, 3]	2
+4		[4]	1
+
+
+Forwarding Table for Node 5 at TIME_STEP 4:
+Destination	Path	Cost
+0		[0]	1
+1		[0, 1]	2
+2		[4, 2]	2
+3		[4, 3]	2
+4		[4]	1
+
+
+Forwarding Table for Node 5 at TIME_STEP 5:
+Destination	Path	Cost
+0		[0]	1
+1		[0, 1]	2
+2		[4, 2]	2
+3		[4, 3]	2
+4		[4]	1
+
+

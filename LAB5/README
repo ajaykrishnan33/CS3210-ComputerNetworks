@@ -1,0 +1,9 @@
+For compilation:
+	- run make
+For running part1:
+	- run 
+		java Main
+
+For running part2:
+	- run 
+		java ErrorVerification

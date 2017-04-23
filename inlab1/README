@@ -1,0 +1,5 @@
+The tcp folder contains the solution to the first part.
+The udp folder contains the solution to the second part.
+The time_diff folder contains the solution for the third part.
+	For the third part, 100000 connections are made by both the tcp and udp clients
+	

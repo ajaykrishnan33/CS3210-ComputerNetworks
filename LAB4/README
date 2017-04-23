@@ -1,0 +1,12 @@
+For compiling program:
+	- From root folder run "make"
+
+For running program:
+	- From server folder, run
+	java EmailServer <port-number>
+	- From client folder, run
+	java EmailClient <ip-address> <port-number>
+
+For replaying typescript:
+	- From root folder, run
+	scriptreplay -t time.txt -s script.log

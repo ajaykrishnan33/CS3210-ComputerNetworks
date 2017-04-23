@@ -1,0 +1,40 @@
+java Sender -s 10.6.15.144 -p 12345 -l 128 -r 10 -n 500 -w 3 -b 10 -d
+
+java Receiver -p 12345 -l 128 -n 500 -e 0.0000001 -d
+
+Case1:
+PACKET_SIZE = 128, RANDOM_DROP_PROB = 10^-7
+
+Output:
+PACKET_GEN_RATE: 10
+PACKET_LENGTH: 128
+Retransmission ratio: 1.0
+Average RTT (in ms): 3.701256617999997
+
+Case2:
+PACKET_SIZE = 128, RANDOM_DROP_PROB = 10^-4
+
+Output:
+PACKET_GEN_RATE: 10
+PACKET_LENGTH: 128
+Retransmission ratio: 1.0925
+Average RTT (in ms): 3.1069621025000007
+
+Case3:
+PACKET_SIZE = 1024, RANDOM_DROP_PROB = 10^-7
+
+PACKET_GEN_RATE: 10
+PACKET_LENGTH: 1024
+Retransmission ratio: 1.0
+Average RTT (in ms): 4.471230848
+
+Case4:
+PACKET_SIZE = 1024, RANDOM_DROP_PROB = 10^-4
+
+PACKET_GEN_RATE: 10
+PACKET_LENGTH: 1024
+Retransmission ratio: 1.004
+Average RTT (in ms): 4.471278981999999
+
+Observations:
+When the RANDOM_DROP_PROB is increased, then packets need to be retransmitted more often, hence the retransmission rate increases. Also, the average RTT increases, since the amount of time since the packet is first transmitted and when it is finally ack

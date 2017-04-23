@@ -1,0 +1,148 @@
+Script started on Saturday 08 April 2017 10:26:08 PM IST
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ javac TCPcc.java 
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ make
+javac TCPcc.java
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ java TCPcc -i 1 -m 1 -n 1 -f 0.1 -s 0.01 -T 1000 -o output.txt
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ cat outup[K[Ko[Kput.txt 
+0|1.0
+1|2.0
+2|4.0
+3|8.0
+4|16.0
+5|32.0
+6|64.0
+7|128.0
+8|256.0
+9|27.900000000000002
+10|55.900000000000006
+11|111.9
+12|140.49916111402612
+13|141.49919210516012
+14|142.49922248603184
+15|14.268156744288223
+16|29.268156744288223
+17|59.26815674428822
+18|72.91567321279886
+19|7.361185300892874
+20|15.361185300892874
+21|31.361185300892874
+22|38.05097196938917
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ cat output.txt java TCPcc -i 1 -m 1 -n 1 -f 0.1 -s 0.01 -T 1000 -o output.txt[C[1P[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ java TCPcc -i 1 -m 1 -n 1 -f 0.2 -s 0.01 -T 1000 -o output.txtcat output.txt [K
+0|1.0
+1|2.0
+2|4.0
+3|8.0
+4|16.0
+5|32.0
+6|8.4
+7|1.6800000000000002
+8|3.68
+9|5.29417517183396
+10|6.341256385343192
+11|7.3731916019875925
+12|8.396126543684069
+13|9.413289846478905
+14|10.426542290053675
+15|11.437030951939917
+16|12.445500337775192
+17|13.452453858126079
+18|14.458243472977257
+19|15.463122211141805
+20|16.467276330054197
+21|17.470845751676347
+22|18.473937464769442
+23|19.476634557109307
+24|20.479002449102147
+25|21.481093287086242
+26|22.482949097856757
+27|23.48460409180251
+28|24.486086369889293
+29|25.48741920613128
+30|26.488622023130368
+31|27.489711142592093
+32|5.684074364218182
+33|11.684074364218182
+34|15.286016640024302
+35|3.235547046594121
+36|7.235547046594121
+37|9.050927244158933
+38|1.832282632314183
+39|3.832282632314183
+40|5.428592100692229
+41|1.0857184201384458
+42|3.0857184201384458
+43|4.224803535214458
+44|1.0
+45|2.0
+46|3.3333333333333335
+47|4.404541200589505
+48|5.44206894777127
+49|6.46458141563623
+50|7.479180269715451
+51|8.489158838268777
+52|9.496242845475383
+53|10.501416652275845
+54|11.50527828525918
+55|12.508209308510585
+56|13.51046293676286
+57|14.512212727175914
+58|15.513580900768442
+59|16.51465552937617
+60|17.515501345668063
+61|18.51616675387249
+62|19.51668849891323
+63|20.517094849243957
+64|4.132593733413818
+65|9.132593733413817
+66|11.83198230153975
+67|12.809193011352862
+68|13.789466174982238
+69|2.913447336549572
+70|5.913447336549572
+71|8.407357103340761
+72|9.423293488913139
+73|10.435565120251956
+74|11.445250737694192
+75|2.323866752787582
+76|5.323866752787582
+77|7.0785103820781945
+78|8.139174910076612
+79|9.185199651496628
+80|10.221318417690664
+81|11.250408876659197
+82|12.27432780411446
+83|13.294329499614724
+84|14.31129284627468
+85|15.325852405511657
+86|16.33847796044023
+87|17.34952479255454
+88|18.35926656835054
+89|19.36791748920752
+90|20.375647591684853
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ cat output.txt java TCPcc -i 1 -m 1 -n 1 -f 0.2 -s 0.01 -T 1000 -o output.txt[1P[1@1[C[C[C[C[C[C[C[1@0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ java TCPcc -i 1 -m 1 -n 1 -f 0.1 -s 0.001 -T 1000 -o output.txtcat output.txt [K
+0|1.0
+1|2.0
+2|4.0
+3|8.0
+4|16.0
+5|32.0
+6|64.0
+7|128.0
+8|256.0
+9|512.0
+10|51.209569436472094
+11|103.2095694364721
+12|207.2095694364721
+13|256.82941009002644
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ python script.py 
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ ls
+[0m[01;35mfile10.png[0m  [01;35mfile14.png[0m  [01;35mfile18.png[0m  [01;35mfile21.png[0m  [01;35mfile25.png[0m  [01;35mfile29.png[0m  [01;35mfile32.png[0m  [01;35mfile6.png[0m  Lab9-CS14B033.pdf  scriptlog.log    TCPcc.java
+[01;35mfile11.png[0m  [01;35mfile15.png[0m  [01;35mfile19.png[0m  [01;35mfile22.png[0m  [01;35mfile26.png[0m  [01;35mfile2.png[0m   [01;35mfile3.png[0m   [01;35mfile7.png[0m  Makefile           script.py
+[01;35mfile12.png[0m  [01;35mfile16.png[0m  [01;35mfile1.png[0m   [01;35mfile23.png[0m  [01;35mfile27.png[0m  [01;35mfile30.png[0m  [01;35mfile4.png[0m   [01;35mfile8.png[0m  output.txt         script_time.log
+[01;35mfile13.png[0m  [01;35mfile17.png[0m  [01;35mfile20.png[0m  [01;35mfile24.png[0m  [01;35mfile28.png[0m  [01;35mfile31.png[0m  [01;35mfile5.png[0m   [01;35mfile9.png[0m  README.txt         TCPcc.class
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB9ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB9$ exit
+exit
+
+Script done on Saturday 08 April 2017 10:27:29 PM IST

@@ -1,0 +1,36 @@
+Script started on Monday 20 March 2017 02:52:09 PM IST
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ make
+javac SlottedAloha.java
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SLo[K[KlottedAloha -N 50 -M 1000 -p 0.001 -W 2
+Nodes: 50 W:2 p:0.001 Utilization: 0.05288207297726071 Avg. Packet delay: 1.203999999999999
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.001 -W 2[K[K[K[K[K
+Nodes: 50 W:2 p:0.001 Utilization: 0.04950249987624375 Avg. Packet delay: 1.23
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.001[K1 - [KW 4
+Nodes: 50 W:4 p:0.001 Utilization: 0.04847779716889664 Avg. Packet delay: 1.2210000000000025
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.001 -W 4[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@1[C[C[C[C[C[K2
+Nodes: 50 W:2 p:0.01 Utilization: 0.35224274406332456 Avg. Packet delay: 49.11985018726593
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.01 -W 2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@5
+Nodes: 50 W:2 p:0.05 Utilization: 0.358 Avg. Packet delay: 123.14525139664806
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.05 -W 2[C[1P[1P[1@1
+Nodes: 50 W:2 p:0.1 Utilization: 0.3453038674033149 Avg. Packet delay: 104.86400000000003
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.1 -W 2[C[1P[1@0[1@7[1@5
+Nodes: 50 W:2 p:0.075 Utilization: 0.3333333333333333 Avg. Packet delay: 85.4795918367347
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.075 -W 2[1P[1@8
+Nodes: 50 W:2 p:0.085 Utilization: 0.30952380952380953 Avg. Packet delay: 81.46153846153847
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.085 -W 2[1P[1P[1@6
+Nodes: 50 W:2 p:0.06 Utilization: 0.34577114427860695 Avg. Packet delay: 116.70503597122304
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.06 -W 2[1P[1@5[1@5
+Nodes: 50 W:2 p:0.055 Utilization: 0.33766233766233766 Avg. Packet delay: 115.44615384615385
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.055 -W 2[1P
+Nodes: 50 W:2 p:0.05 Utilization: 0.340080971659919 Avg. Packet delay: 110.73214285714283
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.05 -W 2[1@7[1P[1@9
+Nodes: 50 W:2 p:0.059 Utilization: 0.3184931506849315 Avg. Packet delay: 94.11827956989251
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.059 -W 2[1P
+Nodes: 50 W:2 p:0.05 Utilization: 0.2887323943661972 Avg. Packet delay: 94.17073170731709
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ java SlottedAloha -N 50 -M 1000 -p 0.05 -W 2[Kjav[Ka[Kva slo[K[K[K[K[K[K[K[Kpython r[Ktest.py 
+[0.34338851302861123, 0.36458713068495907, 0.37213950510760985, 0.3783467208831793, 0.3795380079309233]
+[0.34252829238565763, 0.36713062711172717, 0.3730979623002442, 0.3773378089716951, 0.37766096701323204]
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/LAB7ajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/LAB7$ exit
+exit
+
+Script done on Monday 20 March 2017 02:54:56 PM IST

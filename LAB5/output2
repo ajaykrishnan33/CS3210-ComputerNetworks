@@ -1,0 +1,3800 @@
+Original String: 00000000000000000000000000
+Original String with Parity: 0000000000000000000000000000000
+Error introduced at: 12
+Corrupted String: 0000000000010000000000000000000
+Error found at pos: 12
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 4, 2
+Corrupted String: 01010000000000000000000000000000
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 8, 9
+Corrupted String: 00000001100000000000000000000000
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 32, 8
+Corrupted String: 00000001000000000000000000000001
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 15, 21
+Corrupted String: 00000000000000100000100000000000
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 20, 11
+Corrupted String: 00000000001000000001000000000000
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 1, 7
+Corrupted String: 10000010000000000000000000000000
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 17, 8
+Corrupted String: 00000001000000001000000000000000
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 2, 11
+Corrupted String: 01000000001000000000000000000000
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 1, 16
+Corrupted String: 10000000000000010000000000000000
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00000000000000000000000000
+Original String with Parity: 00000000000000000000000000000000
+Error introduced at: 15, 21
+Corrupted String: 00000000000000100000100000000000
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 1111111111111111111111111111111
+Error introduced at: 2
+Corrupted String: 1011111111111111111111111111111
+Error found at pos: 2
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 2, 7
+Corrupted String: 10111101111111111111111111111111
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 26, 14
+Corrupted String: 11111111111110111111111110111111
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 7, 29
+Corrupted String: 11111101111111111111111111110111
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 2, 9
+Corrupted String: 10111111011111111111111111111111
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 17, 28
+Corrupted String: 11111111111111110111111111101111
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 14, 6
+Corrupted String: 11111011111110111111111111111111
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 22, 2
+Corrupted String: 10111111111111111111101111111111
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 2, 9
+Corrupted String: 10111111011111111111111111111111
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 31, 8
+Corrupted String: 11111110111111111111111111111101
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11111111111111111111111111
+Original String with Parity: 11111111111111111111111111111111
+Error introduced at: 15, 17
+Corrupted String: 11111111111111010111111111111111
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 1000000001000001000000000010000
+Error introduced at: 3
+Corrupted String: 1010000001000001000000000010000
+Error found at pos: 3
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 10, 25
+Corrupted String: 10000000000000010000000010100000
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 24, 32
+Corrupted String: 10000000010000010000000100100001
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 2, 16
+Corrupted String: 11000000010000000000000000100000
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 4, 23
+Corrupted String: 10010000010000010000001000100000
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 25, 29
+Corrupted String: 10000000010000010000000010101000
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 15, 5
+Corrupted String: 10001000010000110000000000100000
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 15, 32
+Corrupted String: 10000000010000110000000000100001
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 16, 13
+Corrupted String: 10000000010010000000000000100000
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 19, 21
+Corrupted String: 10000000010000010010100000100000
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000100000000000000010000
+Original String with Parity: 10000000010000010000000000100000
+Error introduced at: 3, 9
+Corrupted String: 10100000110000010000000000100000
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 0110111010111110111111011111111
+Error introduced at: 19
+Corrupted String: 0110111010111110110111011111111
+Error found at pos: 19
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 22, 32
+Corrupted String: 01101110101111101111100111111110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 7, 16
+Corrupted String: 01101100101111111111110111111111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 19, 22
+Corrupted String: 01101110101111101101100111111111
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 22, 19
+Corrupted String: 01101110101111101101100111111111
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 22, 11
+Corrupted String: 01101110100111101111100111111111
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 21, 12
+Corrupted String: 01101110101011101111010111111111
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 29, 10
+Corrupted String: 01101110111111101111110111110111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 18, 32
+Corrupted String: 01101110101111101011110111111110
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 7, 29
+Corrupted String: 01101100101111101111110111110111
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11111011111111111011111111
+Original String with Parity: 01101110101111101111110111111111
+Error introduced at: 13, 2
+Corrupted String: 00101110101101101111110111111111
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 0101000001000001100001000010000
+Error introduced at: 20
+Corrupted String: 0101000001000001100101000010000
+Error found at pos: 20
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 20, 10
+Corrupted String: 01010000000000011001010000100001
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 32, 6
+Corrupted String: 01010100010000011000010000100000
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 28, 24
+Corrupted String: 01010000010000011000010100110001
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 21, 13
+Corrupted String: 01010000010010011000110000100001
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 5, 11
+Corrupted String: 01011000011000011000010000100001
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 3, 5
+Corrupted String: 01111000010000011000010000100001
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 20, 11
+Corrupted String: 01010000011000011001010000100001
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 31, 16
+Corrupted String: 01010000010000001000010000100011
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 18, 16
+Corrupted String: 01010000010000001100010000100001
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 00000100000100001000010000
+Original String with Parity: 01010000010000011000010000100001
+Error introduced at: 3, 26
+Corrupted String: 01110000010000011000010001100001
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 1011111010111110011110011111111
+Error introduced at: 17
+Corrupted String: 1011111010111110111110011111111
+Error found at pos: 17
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 32, 26
+Corrupted String: 10111110101111100111100110111111
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 26, 1
+Corrupted String: 00111110101111100111100110111110
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 23, 7
+Corrupted String: 10111100101111100111101111111110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 18, 19
+Corrupted String: 10111110101111100001100111111110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 31, 18
+Corrupted String: 10111110101111100011100111111100
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 6, 3
+Corrupted String: 10011010101111100111100111111110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 10, 30
+Corrupted String: 10111110111111100111100111111010
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 8, 22
+Corrupted String: 10111111101111100111110111111110
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 17, 27
+Corrupted String: 10111110101111101111100111011110
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 11111011111011110011111111
+Original String with Parity: 10111110101111100111100111111110
+Error introduced at: 17, 20
+Corrupted String: 10111110101111101110100111111110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 1100000101000010110001000010000
+Error introduced at: 25
+Corrupted String: 1100000101000010110001001010000
+Error found at pos: 25
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 3, 23
+Corrupted String: 11100001010000101100011000100001
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 11, 9
+Corrupted String: 11000001111000101100010000100001
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 13, 9
+Corrupted String: 11000001110010101100010000100001
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 2, 29
+Corrupted String: 10000001010000101100010000101001
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 12, 6
+Corrupted String: 11000101010100101100010000100001
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 12, 1
+Corrupted String: 01000001010100101100010000100001
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 8, 29
+Corrupted String: 11000000010000101100010000101001
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 27, 22
+Corrupted String: 11000001010000101100000000000001
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 24, 9
+Corrupted String: 11000001110000101100010100100001
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00000100001110001000010000
+Original String with Parity: 11000001010000101100010000100001
+Error introduced at: 32, 9
+Corrupted String: 11000001110000101100010000100000
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 1001111110111111011110011101111
+Error introduced at: 17
+Corrupted String: 1001111110111111111110011101111
+Error found at pos: 17
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 19, 24
+Corrupted String: 10011111101111110101100011011110
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 24, 12
+Corrupted String: 10011111101011110111100011011110
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 23, 21
+Corrupted String: 10011111101111110111001111011110
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 16, 5
+Corrupted String: 10010111101111100111100111011110
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 16, 11
+Corrupted String: 10011111100111100111100111011110
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 26, 30
+Corrupted String: 10011111101111110111100110011010
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 13, 8
+Corrupted String: 10011110101101110111100111011110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 20, 18
+Corrupted String: 10011111101111110010100111011110
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 13, 28
+Corrupted String: 10011111101101110111100111001110
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01111011111011110011101111
+Original String with Parity: 10011111101111110111100111011110
+Error introduced at: 17, 14
+Corrupted String: 10011111101110111111100111011110
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 1001000001100011110011000010000
+Error introduced at: 30
+Corrupted String: 1001000001100011110011000010010
+Error found at pos: 30
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 4, 11
+Corrupted String: 10000000010000111100110000100001
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 18, 2
+Corrupted String: 11010000011000111000110000100001
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 29, 23
+Corrupted String: 10010000011000111100111000101001
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 25, 9
+Corrupted String: 10010000111000111100110010100001
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 29, 9
+Corrupted String: 10010000111000111100110000101001
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 9, 15
+Corrupted String: 10010000111000011100110000100001
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 2, 31
+Corrupted String: 11010000011000111100110000100011
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 25, 18
+Corrupted String: 10010000011000111000110010100001
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 32, 24
+Corrupted String: 10010000011000111100110100100000
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00000110001110011000010000
+Original String with Parity: 10010000011000111100110000100001
+Error introduced at: 25, 13
+Corrupted String: 10010000011010111100110010100001
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 0000111010111111011110111001111
+Error introduced at: 3
+Corrupted String: 0010111010111111011110111001111
+Error found at pos: 3
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 14, 28
+Corrupted String: 00001110101110110111101110001111
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 3, 16
+Corrupted String: 00101110101111100111101110011111
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 17, 29
+Corrupted String: 00001110101111111111101110010111
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 5, 7
+Corrupted String: 00000100101111110111101110011111
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 13, 7
+Corrupted String: 00001100101101110111101110011111
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 20, 7
+Corrupted String: 00001100101111110110101110011111
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 31, 24
+Corrupted String: 00001110101111110111101010011101
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 6, 29
+Corrupted String: 00001010101111110111101110010111
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 20, 8
+Corrupted String: 00001111101111110110101110011111
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 01111011111011110111001111
+Original String with Parity: 00001110101111110111101110011111
+Error introduced at: 6, 31
+Corrupted String: 00001010101111110111101110011101
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 1001000101000010111011000010000
+Error introduced at: 18
+Corrupted String: 1001000101000010101011000010000
+Error found at pos: 18
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 21, 19
+Corrupted String: 10010001010000101100010000100001
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 9, 30
+Corrupted String: 10010001110000101110110000100101
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 25, 9
+Corrupted String: 10010001110000101110110010100001
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 27, 10
+Corrupted String: 10010001000000101110110000000001
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 25, 3
+Corrupted String: 10110001010000101110110010100001
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 30, 26
+Corrupted String: 10010001010000101110110001100101
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 24, 16
+Corrupted String: 10010001010000111110110100100001
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 5, 18
+Corrupted String: 10011001010000101010110000100001
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 15, 8
+Corrupted String: 10010000010000001110110000100001
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000100001111011000010000
+Original String with Parity: 10010001010000101110110000100001
+Error introduced at: 27, 24
+Corrupted String: 10010001010000101110110100000001
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 0000111110111010011111111001111
+Error introduced at: 16
+Corrupted String: 0000111110111011011111111001111
+Error found at pos: 16
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 19, 4
+Corrupted String: 00011111101110100101111110011111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 13, 1
+Corrupted String: 10001111101100100111111110011111
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 1, 32
+Corrupted String: 10001111101110100111111110011110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 11, 2
+Corrupted String: 01001111100110100111111110011111
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 13, 14
+Corrupted String: 00001111101101100111111110011111
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 25, 30
+Corrupted String: 00001111101110100111111100011011
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 6, 2
+Corrupted String: 01001011101110100111111110011111
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 25, 6
+Corrupted String: 00001011101110100111111100011111
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 28, 6
+Corrupted String: 00001011101110100111111110001111
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 01111011101011111111001111
+Original String with Parity: 00001111101110100111111110011111
+Error introduced at: 24, 25
+Corrupted String: 00001111101110100111111000011111
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 0000000001010011011011000010000
+Error introduced at: 23
+Corrupted String: 0000000001010011011011100010000
+Error found at pos: 23
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 16, 11
+Corrupted String: 00000000011100100110110000100001
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 2, 11
+Corrupted String: 01000000011100110110110000100001
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 26, 32
+Corrupted String: 00000000010100110110110001100000
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 15, 8
+Corrupted String: 00000001010100010110110000100001
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 29, 16
+Corrupted String: 00000000010100100110110000101001
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 32, 7
+Corrupted String: 00000010010100110110110000100000
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 9, 18
+Corrupted String: 00000000110100110010110000100001
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 23, 1
+Corrupted String: 10000000010100110110111000100001
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 25, 26
+Corrupted String: 00000000010100110110110011100001
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010000
+Original String with Parity: 00000000010100110110110000100001
+Error introduced at: 15, 10
+Corrupted String: 00000000000100010110110000100001
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 1000111010110011011011111001111
+Error introduced at: 9
+Corrupted String: 1000111000110011011011111001111
+Error found at pos: 9
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 18, 32
+Corrupted String: 10001110101100110010111110011111
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 23, 5
+Corrupted String: 10000110101100110110110110011110
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 26, 24
+Corrupted String: 10001110101100110110111011011110
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 32, 3
+Corrupted String: 10101110101100110110111110011111
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 19, 8
+Corrupted String: 10001111101100110100111110011110
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 11, 15
+Corrupted String: 10001110100100010110111110011110
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 19, 27
+Corrupted String: 10001110101100110100111110111110
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 31, 12
+Corrupted String: 10001110101000110110111110011100
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 20, 32
+Corrupted String: 10001110101100110111111110011111
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 01111011001011011111001111
+Original String with Parity: 10001110101100110110111110011110
+Error introduced at: 16, 23
+Corrupted String: 10001110101100100110110110011110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 1100000001010011011011000010110
+Error introduced at: 3
+Corrupted String: 1110000001010011011011000010110
+Error found at pos: 3
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 1, 10
+Corrupted String: 01000000000100110110110000101101
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 11, 19
+Corrupted String: 11000000011100110100110000101101
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 10, 31
+Corrupted String: 11000000000100110110110000101111
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 11, 1
+Corrupted String: 01000000011100110110110000101101
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 3, 19
+Corrupted String: 11100000010100110100110000101101
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 8, 13
+Corrupted String: 11000001010110110110110000101101
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 8, 16
+Corrupted String: 11000001010100100110110000101101
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 25, 7
+Corrupted String: 11000010010100110110110010101101
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 22, 7
+Corrupted String: 11000010010100110110100000101101
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00000101001011011000010110
+Original String with Parity: 11000000010100110110110000101101
+Error introduced at: 11, 16
+Corrupted String: 11000000011100100110110000101101
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 1001111000110010011011111001011
+Error introduced at: 19
+Corrupted String: 1001111000110010010011111001011
+Error found at pos: 19
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 27, 18
+Corrupted String: 10011110001100100010111110110110
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 25, 15
+Corrupted String: 10011110001100000110111100010110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 2, 13
+Corrupted String: 11011110001110100110111110010110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 22, 26
+Corrupted String: 10011110001100100110101111010110
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 13, 27
+Corrupted String: 10011110001110100110111110110110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 17, 3
+Corrupted String: 10111110001100101110111110010110
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 14, 11
+Corrupted String: 10011110000101100110111110010110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 11, 12
+Corrupted String: 10011110000000100110111110010110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 17, 31
+Corrupted String: 10011110001100101110111110010100
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 01110011001011011111001011
+Original String with Parity: 10011110001100100110111110010110
+Error introduced at: 12, 27
+Corrupted String: 10011110001000100110111110110110
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 1001000101000010001011000010110
+Error introduced at: 8
+Corrupted String: 1001000001000010001011000010110
+Error found at pos: 8
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 9, 13
+Corrupted String: 10010001110010100010110000101101
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 6, 19
+Corrupted String: 10010101010000100000110000101101
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 8, 11
+Corrupted String: 10010000011000100010110000101101
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 17, 1
+Corrupted String: 00010001010000101010110000101101
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 15, 32
+Corrupted String: 10010001010000000010110000101100
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 12, 6
+Corrupted String: 10010101010100100010110000101101
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 27, 26
+Corrupted String: 10010001010000100010110001001101
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 7, 20
+Corrupted String: 10010011010000100011110000101101
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 19, 4
+Corrupted String: 10000001010000100000110000101101
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00000100001001011000010110
+Original String with Parity: 10010001010000100010110000101101
+Error introduced at: 25, 30
+Corrupted String: 10010001010000100010110010101001
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 0001100000110010011011111001011
+Error introduced at: 12
+Corrupted String: 0001100000100010011011111001011
+Error found at pos: 12
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 27, 31
+Corrupted String: 00011000001100100110111110110101
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 16, 3
+Corrupted String: 00111000001100110110111110010111
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 12, 13
+Corrupted String: 00011000001010100110111110010111
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 1, 28
+Corrupted String: 10011000001100100110111110000111
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 31, 27
+Corrupted String: 00011000001100100110111110110101
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 4, 7
+Corrupted String: 00001010001100100110111110010111
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 10, 26
+Corrupted String: 00011000011100100110111111010111
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 25, 8
+Corrupted String: 00011001001100100110111100010111
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 8, 9
+Corrupted String: 00011001101100100110111110010111
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 01000011001011011111001011
+Original String with Parity: 00011000001100100110111110010111
+Error introduced at: 14, 18
+Corrupted String: 00011000001101100010111110010111
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 1001000100000011001011000110110
+Error introduced at: 11
+Corrupted String: 1001000100100011001011000110110
+Error found at pos: 11
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 16, 20
+Corrupted String: 10010001000000100011110001101100
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 20, 16
+Corrupted String: 10010001000000100011110001101100
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 31, 15
+Corrupted String: 10010001000000010010110001101110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 31, 20
+Corrupted String: 10010001000000110011110001101110
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 5, 15
+Corrupted String: 10011001000000010010110001101100
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 26, 17
+Corrupted String: 10010001000000111010110000101100
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 15, 10
+Corrupted String: 10010001010000010010110001101100
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 2, 4
+Corrupted String: 11000001000000110010110001101100
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 26, 3
+Corrupted String: 10110001000000110010110000101100
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 00000000001001011000110110
+Original String with Parity: 10010001000000110010110001101100
+Error introduced at: 6, 16
+Corrupted String: 10010101000000100010110001101100
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 1001100100111011011111111001011
+Error introduced at: 5
+Corrupted String: 1001000100111011011111111001011
+Error found at pos: 5
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 9, 29
+Corrupted String: 10011001101110110111111110011110
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 3, 7
+Corrupted String: 10111011001110110111111110010110
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 27, 18
+Corrupted String: 10011001001110110011111110110110
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 29, 25
+Corrupted String: 10011001001110110111111100011110
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 2, 12
+Corrupted String: 11011001001010110111111110010110
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 30, 18
+Corrupted String: 10011001001110110011111110010010
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 28, 15
+Corrupted String: 10011001001110010111111110000110
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 5, 20
+Corrupted String: 10010001001110110110111110010110
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 10, 21
+Corrupted String: 10011001011110110111011110010110
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000011101011111111001011
+Original String with Parity: 10011001001110110111111110010110
+Error introduced at: 12, 28
+Corrupted String: 10011001001010110111111110000110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 1000001000000010001011000100110
+Error introduced at: 11
+Corrupted String: 1000001000100010001011000100110
+Error found at pos: 11
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 2, 14
+Corrupted String: 11000010000001100010110001001101
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 28, 11
+Corrupted String: 10000010001000100010110001011101
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 3, 7
+Corrupted String: 10100000000000100010110001001101
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 28, 18
+Corrupted String: 10000010000000100110110001011101
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 27, 10
+Corrupted String: 10000010010000100010110001101101
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 23, 4
+Corrupted String: 10010010000000100010111001001101
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 10, 29
+Corrupted String: 10000010010000100010110001000101
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 12, 19
+Corrupted String: 10000010000100100000110001001101
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 14, 31
+Corrupted String: 10000010000001100010110001001111
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00010000001001011000100110
+Original String with Parity: 10000010000000100010110001001101
+Error introduced at: 26, 12
+Corrupted String: 10000010000100100010110000001101
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 1001100000111000011111011001011
+Error introduced at: 17
+Corrupted String: 1001100000111000111111011001011
+Error found at pos: 17
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 21, 32
+Corrupted String: 10011000001110000111010110010111
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 31, 17
+Corrupted String: 10011000001110001111110110010100
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 13, 12
+Corrupted String: 10011000001000000111110110010110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 21, 20
+Corrupted String: 10011000001110000110010110010110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 31, 14
+Corrupted String: 10011000001111000111110110010100
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 2, 19
+Corrupted String: 11011000001110000101110110010110
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 17, 32
+Corrupted String: 10011000001110001111110110010111
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 23, 10
+Corrupted String: 10011000011110000111111110010110
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 21, 26
+Corrupted String: 10011000001110000111010111010110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000011100011111011001011
+Original String with Parity: 10011000001110000111110110010110
+Error introduced at: 21, 22
+Corrupted String: 10011000001110000111000110010110
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 1001001101000011001010000100110
+Error introduced at: 20
+Corrupted String: 1001001101000011001110000100110
+Error found at pos: 20
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 5, 12
+Corrupted String: 10011011010100110010100001001100
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 20, 8
+Corrupted String: 10010010010000110011100001001100
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 5, 6
+Corrupted String: 10011111010000110010100001001100
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 1, 22
+Corrupted String: 00010011010000110010110001001100
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 3, 29
+Corrupted String: 10110011010000110010100001000100
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 14, 16
+Corrupted String: 10010011010001100010100001001100
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 6, 20
+Corrupted String: 10010111010000110011100001001100
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 23, 20
+Corrupted String: 10010011010000110011101001001100
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 5, 14
+Corrupted String: 10011011010001110010100001001100
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00010100001001010000100110
+Original String with Parity: 10010011010000110010100001001100
+Error introduced at: 16, 6
+Corrupted String: 10010111010000100010100001001100
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 0001100100101001011101011001011
+Error introduced at: 24
+Corrupted String: 0001100100101001011101001001011
+Error found at pos: 24
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 22, 1
+Corrupted String: 10011001001010010111000110010111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 18, 30
+Corrupted String: 00011001001010010011010110010011
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 9, 22
+Corrupted String: 00011001101010010111000110010111
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 2, 16
+Corrupted String: 01011001001010000111010110010111
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 12, 32
+Corrupted String: 00011001001110010111010110010110
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 6, 9
+Corrupted String: 00011101101010010111010110010111
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 18, 10
+Corrupted String: 00011001011010010011010110010111
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 25, 29
+Corrupted String: 00011001001010010111010100011111
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 19, 32
+Corrupted String: 00011001001010010101010110010110
+Parity bits that failed are at: 16 1 2 
+Error detected yes/no: true
+
+Original String: 01000010100011101011001011
+Original String with Parity: 00011001001010010111010110010111
+Error introduced at: 13, 3
+Corrupted String: 00111001001000010111010110010111
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 1101001101001010001010000100111
+Error introduced at: 1
+Corrupted String: 0101001101001010001010000100111
+Error found at pos: 1
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 10, 13
+Corrupted String: 11010011000000100010100001001110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 19, 10
+Corrupted String: 11010011000010100000100001001110
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 11, 19
+Corrupted String: 11010011011010100000100001001110
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 3, 1
+Corrupted String: 01110011010010100010100001001110
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 1, 22
+Corrupted String: 01010011010010100010110001001110
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 19, 26
+Corrupted String: 11010011010010100000100000001110
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 6, 32
+Corrupted String: 11010111010010100010100001001111
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 11, 13
+Corrupted String: 11010011011000100010100001001110
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 30, 1
+Corrupted String: 01010011010010100010100001001010
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010100101001010000100111
+Original String with Parity: 11010011010010100010100001001110
+Error introduced at: 31, 6
+Corrupted String: 11010111010010100010100001001100
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 0100100100101001001001011001011
+Error introduced at: 20
+Corrupted String: 0100100100101001001101011001011
+Error found at pos: 20
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 8, 1
+Corrupted String: 11001000001010010010010110010111
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 16, 12
+Corrupted String: 01001001001110000010010110010111
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 1, 24
+Corrupted String: 11001001001010010010010010010111
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 7, 4
+Corrupted String: 01011011001010010010010110010111
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 7, 22
+Corrupted String: 01001011001010010010000110010111
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 31, 32
+Corrupted String: 01001001001010010010010110010100
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 28, 22
+Corrupted String: 01001001001010010010000110000111
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 5, 30
+Corrupted String: 01000001001010010010010110010011
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 15, 9
+Corrupted String: 01001001101010110010010110010111
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 01000010100001001011001011
+Original String with Parity: 01001001001010010010010110010111
+Error introduced at: 22, 28
+Corrupted String: 01001001001010010010000110000111
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 0000001101001111001010001100111
+Error introduced at: 14
+Corrupted String: 0000001101001011001010001100111
+Error found at pos: 14
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 17, 1
+Corrupted String: 10000011010011111010100011001110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 28, 24
+Corrupted String: 00000011010011110010100111011110
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 9, 6
+Corrupted String: 00000111110011110010100011001110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 7, 1
+Corrupted String: 10000001010011110010100011001110
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 10, 28
+Corrupted String: 00000011000011110010100011011110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 3, 29
+Corrupted String: 00100011010011110010100011000110
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 1, 2
+Corrupted String: 11000011010011110010100011001110
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 3, 25
+Corrupted String: 00100011010011110010100001001110
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 29, 11
+Corrupted String: 00000011011011110010100011000110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 00010100111001010001100111
+Original String with Parity: 00000011010011110010100011001110
+Error introduced at: 29, 26
+Corrupted String: 00000011010011110010100010000110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 0011100000100001001001011001011
+Error introduced at: 30
+Corrupted String: 0011100000100001001001011001001
+Error found at pos: 30
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 32, 23
+Corrupted String: 00111000001000010010011110010111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 4, 12
+Corrupted String: 00101000001100010010010110010110
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 30, 29
+Corrupted String: 00111000001000010010010110011010
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 4, 12
+Corrupted String: 00101000001100010010010110010110
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 13, 16
+Corrupted String: 00111000001010000010010110010110
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 9, 12
+Corrupted String: 00111000101100010010010110010110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 11, 22
+Corrupted String: 00111000000000010010000110010110
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 1, 27
+Corrupted String: 10111000001000010010010110110110
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 24, 4
+Corrupted String: 00101000001000010010010010010110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 11000010000001001011001011
+Original String with Parity: 00111000001000010010010110010110
+Error introduced at: 17, 8
+Corrupted String: 00111001001000011010010110010110
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 0100011101001110001110001100111
+Error introduced at: 22
+Corrupted String: 0100011101001110001111001100111
+Error found at pos: 22
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 11, 16
+Corrupted String: 01000111011011110011100011001110
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 17, 5
+Corrupted String: 01001111010011101011100011001110
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 1, 30
+Corrupted String: 11000111010011100011100011001010
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 29, 30
+Corrupted String: 01000111010011100011100011000010
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 29, 13
+Corrupted String: 01000111010001100011100011000110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 4, 32
+Corrupted String: 01010111010011100011100011001111
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 7, 6
+Corrupted String: 01000001010011100011100011001110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 11, 10
+Corrupted String: 01000111001011100011100011001110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 26, 21
+Corrupted String: 01000111010011100011000010001110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00110100111001110001100111
+Original String with Parity: 01000111010011100011100011001110
+Error introduced at: 24, 31
+Corrupted String: 01000111010011100011100111001100
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 0111100000110000001001011001001
+Error introduced at: 6
+Corrupted String: 0111110000110000001001011001001
+Error found at pos: 6
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 24, 21
+Corrupted String: 01111000001100000010110010010010
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 4, 13
+Corrupted String: 01101000001110000010010110010010
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 27, 26
+Corrupted String: 01111000001100000010010111110010
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 10, 21
+Corrupted String: 01111000011100000010110110010010
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 29, 6
+Corrupted String: 01111100001100000010010110011010
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 4, 17
+Corrupted String: 01101000001100001010010110010010
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 27, 15
+Corrupted String: 01111000001100100010010110110010
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 7, 14
+Corrupted String: 01111010001101000010010110010010
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 18, 28
+Corrupted String: 01111000001100000110010110000010
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 11000011000001001011001001
+Original String with Parity: 01111000001100000010010110010010
+Error introduced at: 29, 22
+Corrupted String: 01111000001100000010000110011010
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 1100011101011111001110001100011
+Error introduced at: 2
+Corrupted String: 1000011101011111001110001100011
+Error found at pos: 2
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 32, 18
+Corrupted String: 11000111010111110111100011000111
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 27, 13
+Corrupted String: 11000111010101110011100011100110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 25, 9
+Corrupted String: 11000111110111110011100001000110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 20, 11
+Corrupted String: 11000111011111110010100011000110
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 22, 7
+Corrupted String: 11000101010111110011110011000110
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 16, 6
+Corrupted String: 11000011010111100011100011000110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 7, 31
+Corrupted String: 11000101010111110011100011000100
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 21, 25
+Corrupted String: 11000111010111110011000001000110
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 20, 8
+Corrupted String: 11000110010111110010100011000110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 00110101111001110001100011
+Original String with Parity: 11000111010111110011100011000110
+Error introduced at: 15, 8
+Corrupted String: 11000110010111010011100011000110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 0011100000110101001001011000001
+Error introduced at: 19
+Corrupted String: 0011100000110101000001011000001
+Error found at pos: 19
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 25, 7
+Corrupted String: 00111010001101010010010100000010
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 25, 23
+Corrupted String: 00111000001101010010011100000010
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 19, 8
+Corrupted String: 00111001001101010000010110000010
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 20, 15
+Corrupted String: 00111000001101110011010110000010
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 19, 31
+Corrupted String: 00111000001101010000010110000000
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 25, 5
+Corrupted String: 00110000001101010010010100000010
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 31, 24
+Corrupted String: 00111000001101010010010010000000
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 20, 1
+Corrupted String: 10111000001101010011010110000010
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 9, 25
+Corrupted String: 00111000101101010010010100000010
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 11000011010001001011000001
+Original String with Parity: 00111000001101010010010110000010
+Error introduced at: 4, 24
+Corrupted String: 00101000001101010010010010000010
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 0110011000011111001110001100011
+Error introduced at: 2
+Corrupted String: 0010011000011111001110001100011
+Error found at pos: 2
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 17, 3
+Corrupted String: 01000110000111111011100011000110
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 20, 17
+Corrupted String: 01100110000111111010100011000110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 23, 19
+Corrupted String: 01100110000111110001101011000110
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 25, 5
+Corrupted String: 01101110000111110011100001000110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 22, 30
+Corrupted String: 01100110000111110011110011000010
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 25, 12
+Corrupted String: 01100110000011110011100001000110
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 17, 31
+Corrupted String: 01100110000111111011100011000100
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 5, 19
+Corrupted String: 01101110000111110001100011000110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 10, 26
+Corrupted String: 01100110010111110011100010000110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 10110001111001110001100011
+Original String with Parity: 01100110000111110011100011000110
+Error introduced at: 30, 21
+Corrupted String: 01100110000111110011000011000010
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 1111100100111100001000011000001
+Error introduced at: 26
+Corrupted String: 1111100100111100001000011100001
+Error found at pos: 26
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 7, 31
+Corrupted String: 11111011001111000010000110000000
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 9, 20
+Corrupted String: 11111001101111000011000110000010
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 18, 25
+Corrupted String: 11111001001111000110000100000010
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 9, 5
+Corrupted String: 11110001101111000010000110000010
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 12, 32
+Corrupted String: 11111001001011000010000110000011
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 14, 12
+Corrupted String: 11111001001010000010000110000010
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 28, 5
+Corrupted String: 11110001001111000010000110010010
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 25, 18
+Corrupted String: 11111001001111000110000100000010
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 11, 8
+Corrupted String: 11111000000111000010000110000010
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 11000011110001000011000001
+Original String with Parity: 11111001001111000010000110000010
+Error introduced at: 27, 29
+Corrupted String: 11111001001111000010000110101010
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 0011011100001110011110001100011
+Error introduced at: 26
+Corrupted String: 0011011100001110011110001000011
+Error found at pos: 26
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 28, 8
+Corrupted String: 00110110000011100111100011010110
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 7, 19
+Corrupted String: 00110101000011100101100011000110
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 1, 6
+Corrupted String: 10110011000011100111100011000110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 7, 27
+Corrupted String: 00110101000011100111100011100110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 8, 9
+Corrupted String: 00110110100011100111100011000110
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 19, 16
+Corrupted String: 00110111000011110101100011000110
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 7, 29
+Corrupted String: 00110101000011100111100011001110
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 15, 31
+Corrupted String: 00110111000011000111100011000100
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 31, 24
+Corrupted String: 00110111000011100111100111000100
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001100011
+Original String with Parity: 00110111000011100111100011000110
+Error introduced at: 7, 31
+Corrupted String: 00110101000011100111100011000100
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 1011100000111100000000010000001
+Error introduced at: 1
+Corrupted String: 0011100000111100000000010000001
+Error found at pos: 1
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 21, 28
+Corrupted String: 10111000001111000000100100010010
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 29, 3
+Corrupted String: 10011000001111000000000100001010
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 22, 3
+Corrupted String: 10011000001111000000010100000010
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 19, 28
+Corrupted String: 10111000001111000010000100010010
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 28, 11
+Corrupted String: 10111000000111000000000100010010
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 25, 24
+Corrupted String: 10111000001111000000000010000010
+Parity bits that failed are at: 1 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 11, 30
+Corrupted String: 10111000000111000000000100000110
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 15, 29
+Corrupted String: 10111000001111100000000100001010
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 12, 16
+Corrupted String: 10111000001011010000000100000010
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 11000011110000000010000001
+Original String with Parity: 10111000001111000000000100000010
+Error introduced at: 28, 7
+Corrupted String: 10111010001111000000000100010010
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 1011011100001110011110001101111
+Error introduced at: 20
+Corrupted String: 1011011100001110011010001101111
+Error found at pos: 20
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 12, 5
+Corrupted String: 10111111000111100111100011011111
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 3, 15
+Corrupted String: 10010111000011000111100011011111
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 1, 22
+Corrupted String: 00110111000011100111110011011111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 29, 26
+Corrupted String: 10110111000011100111100010010111
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 22, 28
+Corrupted String: 10110111000011100111110011001111
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 28, 32
+Corrupted String: 10110111000011100111100011001110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 15, 22
+Corrupted String: 10110111000011000111110011011111
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 23, 29
+Corrupted String: 10110111000011100111101011010111
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 30, 25
+Corrupted String: 10110111000011100111100001011011
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 10110000111011110001101111
+Original String with Parity: 10110111000011100111100011011111
+Error introduced at: 9, 18
+Corrupted String: 10110111100011100011100011011111
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 0110000100111101000000010100001
+Error introduced at: 16
+Corrupted String: 0110000100111100000000010100001
+Error found at pos: 16
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 11, 32
+Corrupted String: 01100001000111010000000101000010
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 24, 9
+Corrupted String: 01100001101111010000000001000011
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 2, 19
+Corrupted String: 00100001001111010010000101000011
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 16, 29
+Corrupted String: 01100001001111000000000101001011
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 15, 11
+Corrupted String: 01100001000111110000000101000011
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 5, 23
+Corrupted String: 01101001001111010000001101000011
+Parity bits that failed are at: 16 2 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 27, 18
+Corrupted String: 01100001001111010100000101100011
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 20, 26
+Corrupted String: 01100001001111010001000100000011
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 14, 27
+Corrupted String: 01100001001110010000000101100011
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 10000011110000000010100001
+Original String with Parity: 01100001001111010000000101000011
+Error introduced at: 12, 17
+Corrupted String: 01100001001011011000000101000011
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 1110111100001111010110001101111
+Error introduced at: 2
+Corrupted String: 1010111100001111010110001101111
+Error found at pos: 2
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 8, 5
+Corrupted String: 11100110000011110101100011011110
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 26, 32
+Corrupted String: 11101111000011110101100010011111
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 19, 25
+Corrupted String: 11101111000011110111100001011110
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 31, 5
+Corrupted String: 11100111000011110101100011011100
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 9, 14
+Corrupted String: 11101111100010110101100011011110
+Parity bits that failed are at: 1 2 4 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 20, 28
+Corrupted String: 11101111000011110100100011001110
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 2, 20
+Corrupted String: 10101111000011110100100011011110
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 28, 11
+Corrupted String: 11101111001011110101100011001110
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 27, 21
+Corrupted String: 11101111000011110101000011111110
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 11110000111010110001101111
+Original String with Parity: 11101111000011110101100011011110
+Error introduced at: 20, 29
+Corrupted String: 11101111000011110100100011010110
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 1010000100101111000000010100001
+Error introduced at: 5
+Corrupted String: 1010100100101111000000010100001
+Error found at pos: 5
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 27, 16
+Corrupted String: 10100001001011100000000101100011
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 17, 10
+Corrupted String: 10100001011011111000000101000011
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 31, 8
+Corrupted String: 10100000001011110000000101000001
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 28, 8
+Corrupted String: 10100000001011110000000101010011
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 2, 7
+Corrupted String: 11100011001011110000000101000011
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 8, 29
+Corrupted String: 10100000001011110000000101001011
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 17, 15
+Corrupted String: 10100001001011011000000101000011
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 28, 5
+Corrupted String: 10101001001011110000000101010011
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 3, 10
+Corrupted String: 10000001011011110000000101000011
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 10000010111000000010100001
+Original String with Parity: 10100001001011110000000101000011
+Error introduced at: 18, 6
+Corrupted String: 10100101001011110100000101000011
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 1010111100011110010110001101101
+Error introduced at: 6
+Corrupted String: 1010101100011110010110001101101
+Error found at pos: 6
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 6, 9
+Corrupted String: 10101011100111100101100011011010
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 29, 10
+Corrupted String: 10101111010111100101100011010010
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 21, 11
+Corrupted String: 10101111001111100101000011011010
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 8, 12
+Corrupted String: 10101110000011100101100011011010
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 8, 4
+Corrupted String: 10111110000111100101100011011010
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 17, 25
+Corrupted String: 10101111000111101101100001011010
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 19, 22
+Corrupted String: 10101111000111100111110011011010
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 23, 20
+Corrupted String: 10101111000111100100101011011010
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 23, 32
+Corrupted String: 10101111000111100101101011011011
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 11110001111010110001101101
+Original String with Parity: 10101111000111100101100011011010
+Error introduced at: 14, 3
+Corrupted String: 10001111000110100101100011011010
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 1011010001101111000000010100001
+Error introduced at: 25
+Corrupted String: 1011010001101111000000011100001
+Error found at pos: 25
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 10, 26
+Corrupted String: 10110100001011110000000100000011
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 9, 7
+Corrupted String: 10110110111011110000000101000011
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 22, 24
+Corrupted String: 10110100011011110000010001000011
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 28, 18
+Corrupted String: 10110100011011110100000101010011
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 32, 4
+Corrupted String: 10100100011011110000000101000010
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 8, 13
+Corrupted String: 10110101011001110000000101000011
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 30, 2
+Corrupted String: 11110100011011110000000101000111
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 22, 7
+Corrupted String: 10110110011011110000010101000011
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 3, 18
+Corrupted String: 10010100011011110100000101000011
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10100110111000000010100001
+Original String with Parity: 10110100011011110000000101000011
+Error introduced at: 24, 22
+Corrupted String: 10110100011011110000010001000011
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 1010101000011111010110001101111
+Error introduced at: 15
+Corrupted String: 1010101000011101010110001101111
+Error found at pos: 15
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 12, 16
+Corrupted String: 10101010000011100101100011011110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 13, 3
+Corrupted String: 10001010000101110101100011011110
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 25, 26
+Corrupted String: 10101010000111110101100000011110
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 24, 18
+Corrupted String: 10101010000111110001100111011110
+Parity bits that failed are at: 2 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 19, 10
+Corrupted String: 10101010010111110111100011011110
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 12, 17
+Corrupted String: 10101010000011111101100011011110
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 2, 13
+Corrupted String: 11101010000101110101100011011110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 8, 25
+Corrupted String: 10101011000111110101100001011110
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 24, 1
+Corrupted String: 00101010000111110101100111011110
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 11010001111010110001101111
+Original String with Parity: 10101010000111110101100011011110
+Error introduced at: 3, 12
+Corrupted String: 10001010000011110101100011011110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 0011010101101010000000110100001
+Error introduced at: 10
+Corrupted String: 0011010100101010000000110100001
+Error found at pos: 10
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 5, 19
+Corrupted String: 00111101011010100010001101000010
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 3, 18
+Corrupted String: 00010101011010100100001101000010
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 9, 12
+Corrupted String: 00110101111110100000001101000010
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 20, 32
+Corrupted String: 00110101011010100001001101000011
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 6, 26
+Corrupted String: 00110001011010100000001100000010
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 24, 4
+Corrupted String: 00100101011010100000001001000010
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 3, 29
+Corrupted String: 00010101011010100000001101001010
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 31, 22
+Corrupted String: 00110101011010100000011101000000
+Parity bits that failed are at: 1 8 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 24, 4
+Corrupted String: 00100101011010100000001001000010
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10100110101000000110100001
+Original String with Parity: 00110101011010100000001101000010
+Error introduced at: 29, 6
+Corrupted String: 00110001011010100000001101001010
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 1011001110011111010110001101111
+Error introduced at: 7
+Corrupted String: 1011000110011111010110001101111
+Error found at pos: 7
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 27, 16
+Corrupted String: 10110011100111100101100011111110
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 12, 4
+Corrupted String: 10100011100011110101100011011110
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 14, 18
+Corrupted String: 10110011100110110001100011011110
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 25, 23
+Corrupted String: 10110011100111110101101001011110
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 21, 8
+Corrupted String: 10110010100111110101000011011110
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 18, 7
+Corrupted String: 10110001100111110001100011011110
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 26, 21
+Corrupted String: 10110011100111110101000010011110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 3, 6
+Corrupted String: 10010111100111110101100011011110
+Parity bits that failed are at: 1 4 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 8, 18
+Corrupted String: 10110010100111110001100011011110
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 10011001111010110001101111
+Original String with Parity: 10110011100111110101100011011110
+Error introduced at: 3, 14
+Corrupted String: 10010011100110110101100011011110
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 1001010101101011010000110100001
+Error introduced at: 4
+Corrupted String: 1000010101101011010000110100001
+Error found at pos: 4
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 2, 19
+Corrupted String: 11010101011010110110001101000010
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 16, 11
+Corrupted String: 10010101010010100100001101000010
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 29, 4
+Corrupted String: 10000101011010110100001101001010
+Parity bits that failed are at: 16 1 8 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 24, 30
+Corrupted String: 10010101011010110100001001000110
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 17, 1
+Corrupted String: 00010101011010111100001101000010
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 20, 16
+Corrupted String: 10010101011010100101001101000010
+Parity bits that failed are at: 4 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 14, 17
+Corrupted String: 10010101011011111100001101000010
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 13, 28
+Corrupted String: 10010101011000110100001101010010
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 13, 6
+Corrupted String: 10010001011000110100001101000010
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 00100110101010000110100001
+Original String with Parity: 10010101011010110100001101000010
+Error introduced at: 9, 19
+Corrupted String: 10010101111010110110001101000010
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 1110001110011111011100001101111
+Error introduced at: 12
+Corrupted String: 1110001110001111011100001101111
+Error found at pos: 12
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 21, 13
+Corrupted String: 11100011100101110111100011011110
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 31, 3
+Corrupted String: 11000011100111110111000011011100
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 4, 11
+Corrupted String: 11110011101111110111000011011110
+Parity bits that failed are at: 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 18, 9
+Corrupted String: 11100011000111110011000011011110
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 10, 6
+Corrupted String: 11100111110111110111000011011110
+Parity bits that failed are at: 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 27, 14
+Corrupted String: 11100011100110110111000011111110
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 7, 28
+Corrupted String: 11100001100111110111000011001110
+Parity bits that failed are at: 16 1 2 8 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 5, 7
+Corrupted String: 11101001100111110111000011011110
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 22, 1
+Corrupted String: 01100011100111110111010011011110
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 10011001111011100001101111
+Original String with Parity: 11100011100111110111000011011110
+Error introduced at: 29, 16
+Corrupted String: 11100011100111100111000011010110
+Parity bits that failed are at: 1 4 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 1010010001101001010000110100001
+Error introduced at: 6
+Corrupted String: 1010000001101001010000110100001
+Error found at pos: 6
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 14, 30
+Corrupted String: 10100100011011010100001101000110
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 31, 9
+Corrupted String: 10100100111010010100001101000000
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 12, 4
+Corrupted String: 10110100011110010100001101000010
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 31, 3
+Corrupted String: 10000100011010010100001101000000
+Parity bits that failed are at: 16 4 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 18, 8
+Corrupted String: 10100101011010010000001101000010
+Parity bits that failed are at: 16 2 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 17, 12
+Corrupted String: 10100100011110011100001101000010
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 2, 10
+Corrupted String: 11100100001010010100001101000010
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 18, 3
+Corrupted String: 10000100011010010000001101000010
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 15, 18
+Corrupted String: 10100100011010110000001101000010
+Parity bits that failed are at: 16 1 4 8 
+Error detected yes/no: true
+
+Original String: 10100110100010000110100001
+Original String with Parity: 10100100011010010100001101000010
+Error introduced at: 13, 21
+Corrupted String: 10100100011000010100101101000010
+Parity bits that failed are at: 16 8 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 0010001010011111001100000101111
+Error introduced at: 1
+Corrupted String: 1010001010011111001100000101111
+Error found at pos: 1
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 31, 1
+Corrupted String: 10100010100111110011000001011101
+Parity bits that failed are at: 16 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 20, 28
+Corrupted String: 00100010100111110010000001001111
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 21, 27
+Corrupted String: 00100010100111110011100001111111
+Parity bits that failed are at: 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 22, 9
+Corrupted String: 00100010000111110011010001011111
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 8, 23
+Corrupted String: 00100011100111110011001001011111
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 7, 4
+Corrupted String: 00110000100111110011000001011111
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 9, 29
+Corrupted String: 00100010000111110011000001010111
+Parity bits that failed are at: 16 4 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 23, 21
+Corrupted String: 00100010100111110011101001011111
+Parity bits that failed are at: 2 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 19, 6
+Corrupted String: 00100110100111110001000001011111
+Parity bits that failed are at: 16 1 4 
+Error detected yes/no: true
+
+Original String: 10011001111001100000101111
+Original String with Parity: 00100010100111110011000001011111
+Error introduced at: 19, 21
+Corrupted String: 00100010100111110001100001011111
+Parity bits that failed are at: 2 4 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 0110010101101001010010110100011
+Error introduced at: 24
+Corrupted String: 0110010101101001010010100100011
+Error found at pos: 24
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 29, 11
+Corrupted String: 01100101010010010100101101001111
+Parity bits that failed are at: 16 2 4 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 15, 31
+Corrupted String: 01100101011010110100101101000101
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 1, 9
+Corrupted String: 11100101111010010100101101000111
+Parity bits that failed are at: 8 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 3, 32
+Corrupted String: 01000101011010010100101101000110
+Parity bits that failed are at: 1 2 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 11, 20
+Corrupted String: 01100101010010010101101101000111
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 11, 32
+Corrupted String: 01100101010010010100101101000110
+Parity bits that failed are at: 1 2 8 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 15, 30
+Corrupted String: 01100101011010110100101101000011
+Parity bits that failed are at: 16 1 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 6, 22
+Corrupted String: 01100001011010010100111101000111
+Parity bits that failed are at: 16 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 13, 26
+Corrupted String: 01100101011000010100101100000111
+Parity bits that failed are at: 16 1 2 4 
+Error detected yes/no: true
+
+Original String: 10100110100010010110100011
+Original String with Parity: 01100101011010010100101101000111
+Error introduced at: 22, 9
+Corrupted String: 01100101111010010100111101000111
+Parity bits that failed are at: 16 1 2 4 8 
+Error detected yes/no: true
+

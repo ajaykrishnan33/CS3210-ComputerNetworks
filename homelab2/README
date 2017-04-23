@@ -1,0 +1,19 @@
+Instructions for running:
+
+fileserver:
+	Within server folder:
+		make
+		./tcpfileserver <portno>
+	Within client folder:
+		make
+		./tcpfileclient localhost <portno>
+
+mathlab:
+	make
+	For running the server: ./udpmathserver <portno>
+	For running the client: ./udpclient localhost <portno>
+
+I referred to the sample code uploaded on moodle for building the tcp and udp client/server.
+
+Name: Ajaykrishnan Jayagopal
+Roll No.: CS14B033

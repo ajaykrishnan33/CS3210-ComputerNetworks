@@ -1,0 +1,79 @@
+Script started on Monday 13 February 2017 09:17:04 PM IST
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/lab4/clientajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/lab4/client$ java Em ailClient lpc[K[Kocalhsot[K[Kos[K[K[Kost 5000
+Hello, you are client #0.
+Main-Prompt> Listusers
+user1 user2 
+Main-Prompt> AddU user user    hola
+New user added successfully
+Main-Prompt> Listusers
+user1 user2 hola 
+Main-Prompt> SetUser j hola
+Set hola as the current user
+Sub-Prompt-hola> S Rad  ead
+Error: Reached end of mail list
+Sub-Prompt-hola> D Send user1
+Type subject:
+Hello
+Type message:
+Hel  i
+this    This is hola!
+How f do    are you!
+Bye! .###
+Mail sent successfully
+Sub-Prompt-hola> Done
+Done
+Main-Prompt> SetUser user1
+Set user1 as the current user
+Sub-Prompt-user1> Read
+From: user1
+To: user1
+Date: Mon Feb 13 21:11:03 IST 2017
+Subject:  Bobo
+Roor
+toor
+door
+fool
+
+Sub-Prompt-user1> Read
+
+From: hola
+To: user1
+Date: Mon Feb 13 21:18:10 IST 2017
+Subject:  Hello
+Hi
+This is hola!
+How are you!
+Bye.
+
+Sub-Prompt-user1> Done
+Done
+Main-Prompt> SetUser user1
+Set user1 as the current user
+Sub-Prompt-user1> Delete
+Deleted current mail
+Sub-Prompt-user1> Read
+
+From: hola
+To: user1
+Date: Mon Feb 13 21:18:10 IST 2017
+Subject:  Hello
+Hi
+This is hola!
+How are you!
+Bye.
+
+Sub-Prompt-user1> Se  Done    Read
+Error: Reached end of mail list
+Sub-Prompt-user1> Done
+Done
+Main-Prompt> SetUser user2
+Set user2 as the current user
+Sub-Prompt-user2> D Ra ead
+Error: Reached end of mail list
+Sub-Prompt-user2> Done
+Done
+Main-Prompt> Ad  Quit
+]0;ajay@ajay-Inspiron-3542: ~/Documents/acads/6th_sem/NetworksLab/lab4/clientajay@ajay-Inspiron-3542:~/Documents/acads/6th_sem/NetworksLab/lab4/client$ exit
+exit
+
+Script done on Monday 13 February 2017 09:19:20 PM IST

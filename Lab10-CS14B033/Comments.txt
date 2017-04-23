@@ -1,0 +1,4 @@
+
+This assignment involved a variety of concepts including datastructures, graph algorithms, threading and synchronization, networking concepts etc.
+
+This implementation is simplistic and does not handle the case when an initially active router becomes inactive.  
